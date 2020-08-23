@@ -1,2 +1,3 @@
 # SwitchLang
-A javascript library for multilanguage sites without the backend
+A javascript library for multilanguage sites without the backend.
+REQUIRE JQUERY
